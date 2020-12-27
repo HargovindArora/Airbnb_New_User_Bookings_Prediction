@@ -1,2 +1,2 @@
 # Airbnb_User_Booking_Prediction
-Project for 2020 Fall Semester - AI 511
+Project for Machine Learning course 2020 Fall Semester - AI 511 @ IIIT Bangalore
