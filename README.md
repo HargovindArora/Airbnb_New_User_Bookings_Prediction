@@ -8,12 +8,12 @@ Predict the top 3 destinations a new user is most likely to book
 Multi Class Classification
 
 ## Best Model
-Ensemble of RandomForestCLassifier, LightGBM and XGBoost made into a Stacking and then using LogisticRegression as the final estimator
+Ensemble of RandomForestCLassifier, LightGBM and XGBoost made into a Stacking using StackingClassifier with passthrough=True and then using LogisticRegression as the final estimator
 
-## Tools
-Scikit-Learn API for StackingClassifier with passthrough=True
+## Language, Tools and Technologies
+Python, Numpy, Pandas, Scikit-Learn, LightGBM and XGBoost
 
 ## Score
-Scoring Metric used is NDCG and the obtained score is 0.92256 on Kaggle's Private Leaderboard of In-Class Competetion.
+Scoring Metric used is NDCG and the obtained score is 0.92256 on Kaggle's Private Leaderboard of an In-Class Competition.
 
 ## Original [Kaggle contest link](https://www.kaggle.com/c/airbnb-recruiting-new-user-bookings/overview)
