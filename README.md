@@ -2,7 +2,7 @@
 Project for Machine Learning course 2020 Fall Semester - AI 511 @ IIIT Bangalore
 
 ## Objective
-Predict the top 3 destinations a new user is most likely to book
+Predict top 3 destinations where a new user is most likely to make a booking
 
 ## Problem Type
 Multi Class Classification
